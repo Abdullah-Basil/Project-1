@@ -1,0 +1,66 @@
+/* SECTION 1 */
+
+.head1{
+    text-align: center;
+    color: rgb(85, 75, 75);
+    font-family: sans-serif;
+    line-height: 13px;
+}
+.para1{
+    text-align: center;
+    color: rgb(85, 75, 75);
+    font-family: sans-serif;
+    line-height: 5px;
+    font-family: sans-serif;
+    font-size: 10px;
+    margin-right: 5px;
+}
+
+/* SECTION 2 */
+
+.sec2{
+    background-image: url(tailor-model.jpg);
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.tailor1{
+    margin-top: 250px;
+    margin-left: 80px;
+    font-family: sans-serif;
+}
+.tailor2{
+    margin-left: 60px;
+    font-family: sans-serif;
+    color: white;
+    
+}
+.tailor3{
+    margin-left: 60px;
+    font-family: sans-serif;
+    color: white;
+}
+.butt{
+    color: white;
+    background-color: palevioletred;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 0px;
+    margin-left: 70px;
+}
+
+/* SECTION 4 */
+
+.hlo{
+    font-size: 25px;
+    color: black;
+}
+
+/* section 8 */
+
+.bi{
+    font-size: 25px;
+}
